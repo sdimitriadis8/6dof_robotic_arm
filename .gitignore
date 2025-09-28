@@ -1,0 +1,21 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore CMake build directories
+build/
+install/
+log/
+
+# Ignore ROS 2 generated files
+*.log
+*.pyc
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
